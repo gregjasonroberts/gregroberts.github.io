@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Machine Learning"
+    url: /machine/
+  - title: "Data Visualization"
+    url: /dataviz/
+  #- #title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
